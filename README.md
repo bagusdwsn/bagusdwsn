@@ -10,7 +10,7 @@
 
 #### 1. [Universitas Islam Lamongan](https://www.unisla.ac.id) | Informatics Engineering | Lamongan `2020-present`
    - 
- #### 2. [Bangkit Academy]([https://grow.google/intl/id_id/bangkit/?tab=machine-learning](https://drive.google.com/file/d/11-QpgyazC3Od4UYlD0AihbiHj0zbl5RO/view?usp=sharing)) | Machine Learning | `Feb-Jul 2023`
+ #### 2. [Bangkit Academy](https://drive.google.com/file/d/11-QpgyazC3Od4UYlD0AihbiHj0zbl5RO/view?usp=sharing) | Machine Learning | `Feb-Jul 2023`
    - Machine Learning Cohort
    - Build ML Model for Audio Emotion Classification with TensorFlow
 
