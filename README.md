@@ -10,7 +10,7 @@
 
 #### 1. [Universitas Islam Lamongan](https://www.unisla.ac.id) | Informatics Engineering | Lamongan `2020-present`
    - 
- #### 2. [Bangkit Academy](https://drive.google.com/file/d/11-QpgyazC3Od4UYlD0AihbiHj0zbl5RO/view?usp=sharing) | Machine Learning | `Feb-Jul 2023`
+#### 2. [Bangkit Academy](https://drive.google.com/file/d/11-QpgyazC3Od4UYlD0AihbiHj0zbl5RO/view?usp=sharing) | Machine Learning | `Feb-Jul 2023`
    - Machine Learning Cohort
    - Build ML Model for Audio Emotion Classification with TensorFlow
 
@@ -21,7 +21,7 @@
    - Implemented suggestion box using Node Mailer
    - Implemented Location using MapBox
    - Integrate Sanity, Node Mailer, and MapBox API
-#### 2. [Belikopi](https://belikopi.vercel.app) | e-Commerce Project | Lamongan `2019-2019`
+#### 2. [Belikopi](https://belikopi.vercel.app) | e-Commerce Project | Lamongan `2022`
    - Build e-Commerce App with NodeJS
    - Styled with Tailwind CSS
    - Integrate payment functionality using Strapi
@@ -29,7 +29,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="TensorFlow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="NodeJS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="padding-right:10px;" />][webdev]
 
