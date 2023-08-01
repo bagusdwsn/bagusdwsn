@@ -1,4 +1,6 @@
 # Hi there, This is Bagus 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagusdwsn&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusdwsn&layout=compact)
 ## About me:
 - 🎓 Hi, I am an Informatics Student at Universitas Islam Lamongan 
 - 🌱 I’m currently learning Data Analytics and Frontend Development
