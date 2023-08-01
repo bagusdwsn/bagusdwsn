@@ -1,6 +1,17 @@
 # Hi there, This is Bagus 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagusdwsn&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusdwsn&layout=compact)
+### Languages and Tools:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
 ## About me:
 - 🎓 Hi, I am an Informatics Student at Universitas Islam Lamongan 
 - 🌱 I’m currently learning Data Analytics and Frontend Development
@@ -27,17 +38,6 @@
    - Build e-Commerce App with NodeJS
    - Styled with Tailwind CSS
    - Integrate payment functionality using Strapi
----
-
-### Languages and Tools:
-
-[<img align="left" alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="NodeJS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
-
 ---
 ### Connect with me:
 
