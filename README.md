@@ -14,8 +14,8 @@
 
 ## About me:
 - 🎓 Hi, I am an Informatics Student at Universitas Islam Lamongan 
-- 🌱 I’m currently learning Data Analytics and Frontend Development
-- 📊 I am looking for a Data Analyst role in the e-commerce or education sector, or a freelance project that involves web scraping and data visualization
+- 🌱 I’m currently learning Data Analytics and Android Development
+- 📊 I am actively seeking new opportunities to apply my skills and knowledge in facing real-world challenges, while continuing to grow both personally and professionally.
 - 💬 Ask me about anything
 - 📫 If you want to chat with me about data, web development, or anything else, feel free to email me at bagusdwee7@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/bagus-dwi-santoso-623522154)
 
@@ -52,7 +52,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/bagusdwsn#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/bagusdwsn#gh-dark-mode-only)
-
 
 
 [webdev]: https://github.com/bagusdwsn/bagusdwsn
