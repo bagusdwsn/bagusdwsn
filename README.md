@@ -14,15 +14,15 @@
 
 ## About me:
 - 🎓 Hi, I am an Informatics Student at Universitas Islam Lamongan 
-- 🌱 I’m currently learning Data Analytics and Android Development
+- 🌱 I’m currently learning Golang
 - 📊 I am actively seeking new opportunities to apply my skills and knowledge in facing real-world challenges, while continuing to grow both personally and professionally.
 - 💬 Ask me about anything
 - 📫 If you want to chat with me about data, web development, or anything else, feel free to email me at bagusdwee7@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/bagus-dwi-santoso-623522154)
 
 ## Education:
 
-#### 1. [Universitas Islam Lamongan](https://www.unisla.ac.id) | Informatics Engineering | Lamongan `2020-present`
-   - 
+#### 1. [Universitas Islam Lamongan](https://www.unisla.ac.id) | Informatics Engineering | Lamongan `2020-2024`
+   - GPA 3.89
 #### 2. [Bangkit Academy](https://drive.google.com/file/d/11-QpgyazC3Od4UYlD0AihbiHj0zbl5RO/view?usp=sharing) | Machine Learning | `Feb-Jul 2023`
    - Machine Learning Cohort
    - Build ML Model for Audio Emotion Classification with TensorFlow
@@ -34,10 +34,7 @@
    - Implemented suggestion box using Node Mailer
    - Implemented Location using MapBox
    - Integrate Sanity, Node Mailer, and MapBox API
-#### 2. [Belikopi](https://belikopi.vercel.app) | e-Commerce Project | Lamongan `2022`
-   - Build e-Commerce App with NodeJS
-   - Styled with Tailwind CSS
-   - Integrate payment functionality using Strapi
+
 ---
 ### Connect with me:
 
